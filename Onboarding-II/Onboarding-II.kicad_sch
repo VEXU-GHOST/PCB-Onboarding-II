@@ -1,0 +1,19 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "8cec229b-b0bc-47a1-9690-e0c81313de2b")
+	(paper "A4")
+	(title_block
+		(title "GHOST PCB Onboarding II")
+		(date "2026-09-13")
+		(company "VEXU GHOST | IEEE RAS")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
