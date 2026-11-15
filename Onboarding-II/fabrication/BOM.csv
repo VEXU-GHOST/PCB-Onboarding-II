@@ -1,0 +1,7 @@
+"Reference","Value","Footprint","Quantity","Manufacturer","MPN","Specification"
+"C1,C2","100 nF","Capacitor_SMD:C_0603_1608Metric","2","","","X7R, 10%, 16 V"
+"C3","10 nF","Capacitor_SMD:C_0603_1608Metric","1","","","X7R, 10%, 16 V"
+"C4","2.2 uF","Capacitor_SMD:C_0603_1608Metric","1","","","X7R, 10%, 16 V"
+"IC1","ICM-20602","OnboardingSensors:IAM20680HP","1","TDK InvenSense","ICM-20602",""
+"J1","Conn_01x05","Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical","1","","",""
+"R1,R2","10 k","Resistor_SMD:R_0603_1608Metric","2","","","1%"

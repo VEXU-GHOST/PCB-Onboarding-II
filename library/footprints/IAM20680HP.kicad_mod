@@ -39,7 +39,7 @@
   (pad 14 smd rect (at 0.500 -1.2 0) (size 0.300 0.500) (layers F.Cu F.Paste F.Mask))
   (pad 15 smd rect (at 0.000 -1.2 0) (size 0.300 0.500) (layers F.Cu F.Paste F.Mask))
   (pad 16 smd rect (at -0.500 -1.2 0) (size 0.300 0.500) (layers F.Cu F.Paste F.Mask))
-  (model ICM-20602.stp
+  (model "${KIPRJMOD}/../library/3D models/ICM-20602.stp"
     (at (xyz 0 0 0.0047244093432201))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
